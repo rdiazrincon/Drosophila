@@ -1,0 +1,45 @@
+'1_2':
+  intra_max: '269.0'
+  intra_min: '0.0'
+  inter_max: '373.0'
+  inter_min: '236.0'
+'0_1':
+  intra_max: '194.0'
+  intra_min: '0.0'
+  inter_max: '451.0'
+  inter_min: '288.0'
+'1_3':
+  intra_max: '191.0'
+  intra_min: '9.0'
+  inter_max: '365.0'
+  inter_min: '239.0'
+'1_4':
+  intra_max: '114.0'
+  intra_min: '16.0'
+  inter_max: '358.0'
+  inter_min: '247.0'
+'2_3':
+  intra_max: '94.0'
+  intra_min: '0.0'
+  inter_max: '374.0'
+  inter_min: '69.0'
+'0_4':
+  intra_max: '136.0'
+  intra_min: '44.0'
+  inter_max: '414.0'
+  inter_min: '292.0'
+'0_3':
+  intra_max: '196.0'
+  intra_min: '49.0'
+  inter_max: '414.0'
+  inter_min: '318.0'
+'3_4':
+  intra_max: '100.0'
+  intra_min: '2.0'
+  inter_max: '410.0'
+  inter_min: '135.0'
+'0_2':
+  intra_max: '267.0'
+  intra_min: '65.0'
+  inter_max: '425.0'
+  inter_min: '344.0'
