@@ -1,2 +1,2 @@
 # Drosophila
-Using DeepLabCut for pose stimation on hyperagression of female drosophila
+Labeled data provided by DeepLabCut. Trained using ResNets on behavioral videos of Drosophila fly
